@@ -16,7 +16,7 @@
   "prefix": "/",
   "adminOnly": {
     "enable": false,
-    "ignoreCommand": []
+    "ignoreCommand": [61579633315782]
   },
   "adminBot": [
     "61576809307486",
